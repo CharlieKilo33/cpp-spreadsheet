@@ -1,1 +1,0 @@
-/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/tpr4.dir/TPR/TPR4_prac.cpp.o -o tpr4  /usr/lib/x86_64-linux-gnu/libpython3.10.so

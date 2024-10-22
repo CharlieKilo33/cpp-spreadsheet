@@ -1,1 +1,0 @@
-/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/tpr3.dir/TPR/TPR3_prac.cpp.o -o tpr3
